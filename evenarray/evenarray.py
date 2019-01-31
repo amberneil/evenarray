@@ -1,7 +1,6 @@
 import math
 
 def evenarray(*args, **kwargs):
-	print('The joker was here.')
 	if len(args) == 2:
 		lower = 0
 		upper = args[0]
