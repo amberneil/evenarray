@@ -1,1 +1,1 @@
-from evenarray import evenarray
+from .evenarray import evenarray
